@@ -173,8 +173,5 @@ GoRoute(
 
 ## 👨‍💻 Author
 
-**Nicholaus Adit**
+**Nicholaus Adhyatma Surya Kusuma**
 Frontend & Flutter Developer
-
-```
-
