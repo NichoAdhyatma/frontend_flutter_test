@@ -167,7 +167,7 @@ GoRoute(
 
 | Dashboard                                | Inbound                              | Inventory                                |
 | ---------------------------------------- | ------------------------------------ | ---------------------------------------- |
-| ![Dashboard](docs/screens/dashboard.png) | ![Inbound](docs/screens/inbound.png) | ![Inventory](docs/screens/inventory.png) |
+| ![Dashboard](docs/img.png) | ![Inbound](docs/img_1.png) | ![Inventory](docs/img_2.png) |
 
 ---
 
